@@ -1,0 +1,7 @@
+<gresources>
+    <gresource prefix="net/skibo/apple2gtk/">
+       <file compressed="true">apple2gtk.glade</file>
+       <file>applelogo.jpg</file>
+    </gresource>
+</gresources>
+

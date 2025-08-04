@@ -1,0 +1,7 @@
+<gresources>
+  <gresource prefix="net/skibo/atarigtk/">
+    <file compressed="true">atari2600.glade</file>
+    <file>atarilogo.jpg</file>
+  </gresource>
+</gresources>
+

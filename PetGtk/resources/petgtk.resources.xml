@@ -1,0 +1,8 @@
+<gresources>
+    <gresource prefix="net/skibo/petgtk/">
+       <file compressed="true">petgtk.glade</file>
+       <file>keyboard_800x267.png</file>
+       <file>pet2001image.jpg</file>
+    </gresource>
+</gresources>
+
